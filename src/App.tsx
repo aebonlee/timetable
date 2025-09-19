@@ -26,7 +26,6 @@ function ProtectedRoute({ children, requireAdmin = false }: { children: React.Re
 }
 
 function App() {
-  const { isAuthenticated } = useAuthStore()
 
   return (
     <QueryClientProvider client={queryClient}>
