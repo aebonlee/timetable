@@ -5,7 +5,12 @@
       "Bash(npm init:*)",
       "Bash(mv:*)",
       "Bash(rmdir:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(curl:*)",
+      "Bash(cat:*)",
+      "Bash(git checkout:*)",
+      "Bash(rm:*)",
+      "Bash(npm run deploy:*)"
     ],
     "deny": [],
     "ask": []
